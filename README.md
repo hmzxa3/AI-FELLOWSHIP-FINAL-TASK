@@ -1,4 +1,6 @@
 # RealEstateGPT — Quickstart (local)
+EstateVision is a smart real-estate management platform designed to simplify property browsing, listing, and decision-making through an intuitive digital experience. The system enables users to explore property details, compare listings, manage inquiries, and interact with real-time data—all within a clean and user-friendly interface. Built with modern web technologies, EstateVision streamlines the real-estate workflow for buyers, sellers, and agents by offering smooth navigation, efficient data handling, and a scalable architecture.
+
 
 ## Prereqs
 - Python 3.10+ (3.11 recommended)
