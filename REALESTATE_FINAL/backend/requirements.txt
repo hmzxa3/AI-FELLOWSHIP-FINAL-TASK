@@ -1,0 +1,12 @@
+fastapi==0.95.2
+uvicorn[standard]==0.22.0
+langchain==0.0.360
+llama-index==0.8.16
+openai==1.31.0
+chromadb==0.4.4
+pypdf==3.11.0
+python-multipart==0.0.6
+python-dotenv==1.0.0
+streamlit==1.24.1
+pytesseract==0.3.10
+requests==2.31.0

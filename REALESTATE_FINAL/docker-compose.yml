@@ -1,0 +1,12 @@
+version: '3.8'
+services:
+  backend:
+    build: ./backend
+    ports:
+      - "8000:8000"
+    environment:
+      - OPENAI_API_KEY=${OPENAI_API_KEY}
+      - CHROMA_DIR=/data/chroma
+      - DATA_DIR=/data/uploads
+    volumes:
+      - ./data:/data
